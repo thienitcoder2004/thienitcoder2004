@@ -72,12 +72,6 @@
 > - 🔊 Trình phát nhạc mini & Playlist cá nhân  
 > - 🌙 Dark Mode / Light Mode
 
-#### 📊 [DuckDB Data Analysis Tool](https://github.com/thienitcoder2004/duckdb_analysis)
-> Ứng dụng Python nhẹ nhàng dùng **DuckDB** để phân tích dữ liệu:
-> - 🧠 Query nhanh – dễ tích hợp  
-> - 📈 Xuất báo cáo tự động  
-> - 🐍 Code thuần Python, dễ triển khai
-
 ---
 
 ### 📊 Thống kê GitHub / GitHub Stats
