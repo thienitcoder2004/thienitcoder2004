@@ -12,8 +12,9 @@
 - 💡 Lập trình viên đam mê **Web & Mobile Development**  
 - 🚀 Kinh nghiệm với:
   `ASP.NET Core MVC`, `SQL`, `JavaScript`, `ReactJS`, `Node.js`, `MongoDB`,  
-  `HTML / HTML5`, `CSS / CSS3`, `SASS`, `Bootstrap`, `TailwindCSS`
-- ⚙️ Thích học hỏi công nghệ mới, xây dựng sản phẩm thực tế  
+  `HTML / HTML5`, `CSS / CSS3`, `SASS`, `Bootstrap`, `TailwindCSS`,  
+  `Flutter`, `React Native`
+- ⚙️ Mục tiêu: Trở thành **Full-Stack Developer** đa nền tảng (Web + Mobile)
 - 📫 Liên hệ: **[nguyenngocthien.dev@gmail.com](mailto:nguyenngocthien.dev@gmail.com)**
 
 ---
@@ -28,6 +29,10 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 🖥️ Backend Development
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -60,6 +65,12 @@
 > - 🏠 Quản lý phòng – tầng – loại phòng  
 > - 💳 Đặt phòng & thanh toán trực tuyến  
 > - 👨‍💼 Phân quyền Quản trị – Nhân viên – Khách hàng
+
+#### 📱 [Music App - Ứng dụng nghe nhạc Flutter](https://github.com/thienitcoder2004/music-app)
+> Ứng dụng **Flutter** hiện đại:
+> - 🎵 Giao diện thân thiện, responsive  
+> - 🔊 Trình phát nhạc mini & Playlist cá nhân  
+> - 🌙 Dark Mode / Light Mode
 
 #### 📊 [DuckDB Data Analysis Tool](https://github.com/thienitcoder2004/duckdb_analysis)
 > Ứng dụng Python nhẹ nhàng dùng **DuckDB** để phân tích dữ liệu:
