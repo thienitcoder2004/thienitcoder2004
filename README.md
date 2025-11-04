@@ -15,7 +15,7 @@
   `HTML / HTML5`, `CSS / CSS3`, `SASS`, `Bootstrap`, `TailwindCSS`,  
   `Flutter`, `React Native`
 - ⚙️ Mục tiêu: Trở thành **Full-Stack Developer** đa nền tảng (Web + Mobile)
-- 📫 Liên hệ: **[nguyenngocthien.dev@gmail.com](mailto:nguyenngocthien.dev@gmail.com)**
+- 📫 Liên hệ: **[nnthien201024@gmail.com](mailto:nnthien201024@gmail.com)**
 
 ---
 
