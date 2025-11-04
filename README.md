@@ -2,7 +2,7 @@
 <!-- 👇 Copy toàn bộ nội dung này vào file README.md trong repo cùng tên với username của bạn: thienitcoder2004 -->
 
 <h1 align="center">👋 Xin chào! Mình là Nguyễn Ngọc Thiện</h1>
-<h3 align="center">💻 Web & Mobile Developer | Sinh viên HUTECH University 🇻🇳</h3>
+<h3 align="center">💻 Web & Mobile Developer | Sinh viên HUTECH University</h3>
 
 ---
 
