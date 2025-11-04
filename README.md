@@ -9,7 +9,7 @@
 ### 🧭 Giới thiệu bản thân / About Me
 
 - 🎓 Sinh viên **Đại học Công nghệ TP.HCM (HUTECH)**  
-- 💡 Lập trình viên **Web & Mobile Development**  
+- 💡 Lập trình viên đam mê **Web & Mobile Development**  
 - 🚀 Kinh nghiệm với:
   `ASP.NET Core MVC`, `C#`, `Java`, `SQL`, `JavaScript`, `ReactJS`, `Node.js`, `MongoDB`,  
   `HTML / HTML5`, `CSS / CSS3`, `SASS`, `Bootstrap`, `TailwindCSS`,  
