@@ -1,5 +1,6 @@
+<!-- ✨ TYPING ANIMATION -->
 <p align="center">
-  <img src="A_header_banner_showcases_Nguyen_Ngoc_Thien,_ident.png" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+Developer;Web+Developer;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Nguyễn Ngọc Thiện</h1>
@@ -15,6 +16,13 @@
 - 🌱 Currently focusing on **Flutter**, **React Native**, **ASP.NET Core**
 - 📍 Based in: **Ho Chi Minh City, Vietnam**
 - 📫 Contact: **nnthien201024@gmail.com**
+
+---
+
+# 💻 Coding Animation (For Vibe 😎)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</p>
 
 ---
 
@@ -98,6 +106,13 @@
 
 ---
 
+# 🐍 GitHub Snake Animation
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -107,6 +122,13 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thienitcoder2004&theme=tokyonight" height="150">
+</p>
+
+---
+
+# 🚀 Final Touch
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90">
 </p>
 
 ---
