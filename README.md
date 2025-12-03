@@ -13,7 +13,7 @@
 - 🎓 Student at **HUTECH University – Software Engineering**
 - 💻 Specialized in **Web** & **Mobile Development**
 - 🚀 Passionate about building clean, scalable, modern applications
-- 🌱 Currently focusing on **Flutter**, **React Native**, **ASP.NET Core**
+- 🌱 Currently focusing on **Flutter**, **React Native**, **ASP.NET Core**, **ReactJS**
 - 📍 Based in: **Ho Chi Minh City, Vietnam**
 - 📫 Contact: **nnthien201024@gmail.com**
 
