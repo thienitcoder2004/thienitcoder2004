@@ -1,129 +1,127 @@
-<!-- 🌌 CYBERPUNK DEVELOPER PROFILE BY CHATGPT -->
+<!-- 🌸 ANIME DEVELOPER PROFILE — BY CHATGPT FOR NGUYỄN NGỌC THIỆN -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=33FFF9&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Mobile+Developer;Web+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Things" />
-</p>
-
-<h1 align="center" style="color:#00E8FF;">⚡ Hi, I'm Nguyễn Ngọc Thiện ⚡</h1>
-<h3 align="center" style="color:#8BFFD6;">Full-Stack Web & Mobile Developer • Cyberpunk Tech Lover</h3>
+<h1 align="center">🌸✨ Hi~ I'm <span style="color:#FF6EC7;">Nguyễn Ngọc Thiện</span> ✨🌸</h1>
+<h3 align="center">(≧◡≦) ♡ Full-Stack Web & Mobile Developer • Anime Vibes Included ♡</h3>
 
 ---
 
-## 🌠 About Me
-
-- 🎓 Student – **HUTECH University (Software Engineering)**
-- 💻 Specializing in **Web + Mobile Development**
-- 💡 Love **clean, modern, scalable** software architecture
-- 🚀 Currently deep-diving: **Flutter**, **React Native**, **ASP.NET Core**, **Docker**
-- 🎨 UI/UX: **Figma → Pixel-Perfect UI**
-- 🌍 Location: **Ho Chi Minh City**
-- 📩 Email: **nnthien201024@gmail.com**
+## 💖 About Me — *Watashi wa... 💫*
+- 🎓 Student at **HUTECH University**
+- 💻 Loves building **Web + Mobile** apps  
+- 🎨 Big fan of cute UI/UX (Figma ♥)
+- 🌱 Learning Flutter, ASP.NET, React Native  
+- 📍 Ho Chi Minh City  
+- ✉️ Email: **nnthien201024@gmail.com**  
+- 🎌 Motto: **"Code like an anime main character!"** ✨
 
 ---
 
-## ✨ Cyber Coding Vibes
+## 🍡 Anime Coding Mood
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://i.pinimg.com/originals/19/52/27/195227a5219a0d52a95397dfb47bdc29.gif" width="300">
 </p>
 
 ---
 
-# 🧬 Tech Stack
+# 🧸 **Tech Stack (Cute Edition)**
 
-## 🧩 Programming Languages  
+## 🍬 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py&theme=light" />
 </p>
 
-## 🎨 Frontend & UI  
+## 🎀 Frontend & UI  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux&theme=light" />
 </p>
 
-## 📱 Mobile  
+## 🍓 Mobile Development  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio&theme=light" />
 </p>
 
-## ⚙️ Backend  
+## 🍥 Backend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=light" />
 </p>
 
-## 🗄 Database  
+## 🍙 Databases  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb&theme=light" />
 </p>
 
-## 🛠 Tools & DevOps  
+## 🧁 Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vscode&theme=light" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# ✨ Featured Projects (Anime Edition)
 
-### 🛒 HTM Shop — *ASP.NET Core MVC*
+## 🛒 HTM Shop — *ASP.NET MVC*
 🔗 https://github.com/thienitcoder2004/website-e-commerce  
-- ✔ Shopping Cart, MoMo + VNPay  
-- ✔ Review + Filter + Compare  
-- ✔ Admin, Staff, User Roles  
-- ✔ Warehouse & Sales Dashboard  
+💗 Cart + Payment  
+💗 Admin/Staff/User + Reviews  
+💗 Warehouse Management  
 
-### 🏨 Hotel Management — *Flask*
+---
+
+## 🏨 Hotel Management (Flask)  
 🔗 https://github.com/thienitcoder2004/QL_KHACH_SAN  
-- ✔ Booking & Room Management  
-- ✔ Payment System  
-- ✔ Role Authentication  
+💗 Booking  
+💗 Roles  
+💗 Payment support  
 
-### 🎵 Music App — *Flutter*
+---
+
+## 🎵 Music App — *Flutter*  
 🔗 https://github.com/thienitcoder2004/music-app  
-- ✔ Modern UI/UX  
-- ✔ Playlist System  
-- ✔ Dark/Light Mode  
+💗 Cute modern UI  
+💗 Playlist  
+💗 Dark/Light Mode  
 
 ---
 
-# 🌈 Neon Achievements  
-- 💥 Built **10+ full-stack** applications  
-- 🧠 Strong in **architecture**, scalable design  
-- 💎 Great eye for **UI/UX** (Figma → App)  
-- 🚀 Love optimizing performance  
+# 💞 Little Achievements
+- 🧸 Built **10+ full-stack apps**
+- 🌸 Good UI sense (Figma → Pixel Perfect)
+- 🍥 Strong backend skills
+- ✨ Always learning new powers like an anime MC
 
 ---
 
-# 🐍 GitHub Snake  
+# 🐍 GitHub Snake
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thienitcoder2004&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienitcoder2004&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thienitcoder2004&show_icons=true&theme=rose_pine&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienitcoder2004&layout=compact&theme=rose_pine&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thienitcoder2004&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://streak-stats.demolab.com?user=thienitcoder2004&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-# 🌐 Connect With Me  
+# 🌸 Connect With Me  
 <p align="center">
-  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:nnthien201024@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/thienitcoder2004"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-FF7CEB?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:nnthien201024@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB7E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/thienitcoder2004"><img src="https://img.shields.io/badge/GitHub-FFC4DD?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80">
+  <img src="https://i.pinimg.com/originals/25/73/74/2573741f45e0f678231d3e687de9b7bb.gif" width="90">
 </p>
 
-<h3 align="center"><i>"Creating the future, one line of code at a time."</i></h3>
+<h3 align="center"><i>“Keep coding, keep shining — ganbatte ne!” ✨🌸</i></h3>
 
