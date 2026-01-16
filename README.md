@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:nnthien201024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nnthien201024%40gmail.com-00C4FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/thienitcoder2004%40gmail.com-00C4FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/thienitcoder2004">
     <img src="https://img.shields.io/badge/GitHub-thienitcoder2004-111?style=for-the-badge&logo=github&logoColor=white" />
