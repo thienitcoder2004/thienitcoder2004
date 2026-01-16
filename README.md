@@ -24,7 +24,7 @@
 💻 I build **Web & Mobile apps** with a focus on **clean UI, scalable architecture, and real-world features**  
 🚀 Passionate about turning ideas into **modern products**  
 🌱 Currently leveling up with: **Flutter • React Native • ASP.NET Core • ReactJS**  
-📫 Contact me anytime: **nnthien201024@gmail.com**
+📫 Contact me anytime: **thienitcoder2004@gmail.com**
 
 ---
 
@@ -133,18 +133,6 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thienitcoder2004&show_icons=true&theme=tokyonight" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienitcoder2004&layout=compact&theme=tokyonight" height="155" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thienitcoder2004&theme=tokyonight" height="155" />
 </p>
 
 ---
