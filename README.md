@@ -108,14 +108,6 @@
 
 ---
 
-### 🎵 Music App — *Flutter*
-🔗 **Repo:** https://github.com/thienitcoder2004/music-app  
-✅ Modern UI experience  
-✅ Custom playlists  
-✅ Dark / Light mode
-
----
-
 ## 🏆 Highlights
 🔥 Built **10+ projects** across Web & Mobile  
 ⭐ Strong foundation in **architecture, database design, and system thinking**  
